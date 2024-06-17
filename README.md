@@ -1,7 +1,7 @@
-<img src="src/assets/shop.png" alt="Elegant shop" />
+<img src="src/assets/elegant-shop.png" alt="Elegant shop" />
 
 ## Elegant shop App
-This app based on React JS with used Tailwind CSS.
+This app based on React JS.
 
 ## Install
 
