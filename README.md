@@ -1,7 +1,7 @@
 <img src="src/assets/elegant-shop.png" alt="Elegant shop" />
 
 ## Elegant shop App
-This app based on React JS.
+This app based on React JS. (React's Context API & useReducer - Advanced State Management)
 
 ## Install
 
